@@ -1,4 +1,4 @@
-# NLP Challenge ecthr-a Dataset
+# NLP Challenge ECtHR_a Dataset
 
 This is an NLP project for predicting violated articles given court case records. I am using the
 lex_glue European Court of Human Rights (ECTHR_a)
